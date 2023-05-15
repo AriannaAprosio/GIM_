@@ -1,32 +1,19 @@
-let posX 
-let posY 
-let velX 
-let velY 
-
 function setup(){
-	createCanvas(800, 400)
-	posX = width/2
-	posY = height/2
-	velX = 3
-	velY = 3
-	background(240, 60, 0)
+	createCanvas(windowWidth, windowHeight)		
 }
 
 function draw(){
+  
+   background(0,0,0)
 
-	noStroke()
-	//fill(map(posX,0, width, 0, 255), map(posY, 0, width, 8, 255), 0)
 
-	
-
-	ellipse(posX, posY, 400, 400)
-	
-	posX = posX + velX
-	posY = posY + velY
-
-	if (posX >= width  || posX <= 0) velX = -velX
-	if (posY >= height || posY <= 0) velY = -velY
-
+ for(let i=0; i<200; i=i+1) {
+   let spessore = random(1, 3)
+   let lunghezza = random(20, 100)
+   let posX = random(-200, windowWidth)
+   let posY = random(-200, windowWidth)
+   stroke(255)
+   //strokeweight(spessore)
+   line(posX, posY, posX, posY + lunghezza)
+ } 
 }
-
-       
