@@ -10,4 +10,4 @@
 [Spostamento_2](https://github.com/AriannaAprosio/GIM_/blob/main/Esercizio_1A%202/template/spostamento_2.html)  
 [Spostamento_3](https://github.com/AriannaAprosio/GIM_/blob/main/Esercizio_1A%202/template/spostamento_3.html)  
 ## Esercizio 1B
-[Dittico](https://github.com/AriannaAprosio/GIM_/blob/main/Esercizio_1B/template/indexA.html)
+[Dittico](https://ariannaaprosio.github.io/GIM_/Esercizio_1B/template/indexA.html)
