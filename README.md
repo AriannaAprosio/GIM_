@@ -23,7 +23,7 @@
 [Disegno](https://ariannaaprosio.github.io/GIM_/Esercizio_3/1_disegno/index.html)
 
 ## Esercizio 3B
-[Pong](https://ariannaaprosio.github.io/GIM_/Esercizio_3/2_pong/index.html)
+[Ping pong](https://ariannaaprosio.github.io/GIM_/Esercizio_3/2_pong/index.html)
 
 ## Esercizio 3C
 [Neve](https://ariannaaprosio.github.io/GIM_/Esercizio_3/3_neve/index.html)
