@@ -4,7 +4,7 @@ let velX
 let velY 
 
 function setup(){
-	createCanvas(800, 400)
+	createCanvas(windowWidth, windowHeight)
 	posX = width/2
 	posY = height/2
 	velX = 3
