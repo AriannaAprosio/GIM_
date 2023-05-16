@@ -1,14 +1,14 @@
 # GIM_
 
 ## Esercizio 1A
-[Acceso spento_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/acceso_spento_2)   
-[Acceso spento_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/acceso_spento_3)  
-[Aperto chiuso_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/aperto_chiuso_2)  
-[Aperto chiuso_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/aperto_chiuso_3)   
-[Rotazione_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/rotazione_2)    
-[Rotazione_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/rotazione_3)  
-[Spostamento_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/spostamento_2)  
-[Spostamento_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/spostamento_3)  
+[Acceso spento_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/acceso_spento/acceso_spento_2)   
+[Acceso spento_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/acceso_spento/acceso_spento_3)  
+[Aperto chiuso_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/aperto_chiuso/aperto_chiuso_2)  
+[Aperto chiuso_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/aperto_chiuso/aperto_chiuso_3)   
+[Rotazione_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/rotazione/rotazione_2)    
+[Rotazione_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/rotazione/rotazione_3)  
+[Spostamento_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/spostamento/spostamento_2)  
+[Spostamento_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/spostamento/spostamento_3)  
 
 ## Esercizio 1B
 [Dittico](https://ariannaaprosio.github.io/GIM_/Esercizio_1B/template/indexA.html)
