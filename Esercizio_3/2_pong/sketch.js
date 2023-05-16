@@ -5,21 +5,22 @@ let velY
 
 function setup(){
 	createCanvas(windowWidth, windowHeight)
-	posX = width/2
-	posY = height/2
-	velX = 3
-	velY = 3
-	background(240, 60, 0)
+	posX = width/6
+	posY = height/6
+	velX = 8
+	velY = 8
+	background(255, 180, 0)
 }
 
 function draw(){
 
 	noStroke()
-	//fill(map(posX,0, width, 0, 255), map(posY, 0, width, 8, 255), 0)
+	fill((200), random (70), random(210))
+
 
 	
 
-	ellipse(posX, posY, 400, 400)
+	ellipse(posX, posY, 40, 40)
 	
 	posX = posX + velX
 	posY = posY + velY
