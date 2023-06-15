@@ -24,7 +24,7 @@
 [Forma e senso](https://ariannaaprosio.github.io/GIM_/Esercizio_2A/index.html)
 
 ## Esercizio 2B
-[Forma e senso 2]
+[Forma e senso]
 
 ## Esercizio 3A
 [Disegno](https://ariannaaprosio.github.io/GIM_/Esercizio_3/1_disegno/index.html)
