@@ -43,5 +43,5 @@
 
 [Orologio analogico](https://ariannaaprosio.github.io/GIM_/Esercizio_4/3_orologio_analogico/index.html)
 
-[Orologio floreale](https://ariannaaprosio.github.io/GIM_/Esercizio_4/2_orologio_digitale/index.html)
+[Orologio floreale](https://ariannaaprosio.github.io/GIM_/Esercizio_4/2_orologio_digitale/index.html)    
 //orologio Al posto dei numeri sul quadrante, presenta una serie di petali intorno al bordo esterno, ognuno dei quali rappresenta un'unità di tempo, come le ore.  Man mano che il tempo passa, i petali si muovono gradualmente intorno al quadrante, creando un'illusione visiva di un fiore in fiore. Quando i petali completano un giro completo, si forma un fiore completo, indicando che è passato un periodo di tempo specifico.
