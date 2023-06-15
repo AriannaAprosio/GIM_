@@ -1,7 +1,7 @@
 # GIM_
 
 ## Esercizio 1A
-[Acceso spento_2](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/acceso_spento/acceso_spento_2/indexA.html)
+[Acceso spento_2](Esercizio_1A /acceso_spento/indexA.html)
 
 [Acceso spento_3](https://ariannaaprosio.github.io/GIM_/Esercizio_1A/acceso_spento/indexB.html)  
 
