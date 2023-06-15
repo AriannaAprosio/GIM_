@@ -36,4 +36,4 @@
 
 [Orologio analogico](https://ariannaaprosio.github.io/GIM_/Esercizio_4/3_orologio_analogico/index.html)
 
-[Orologio_floreale](https://ariannaaprosio.github.io/GIM_/Esercizio_4/2_orologio_digitale/index.html)
+[Orologio floreale](https://ariannaaprosio.github.io/GIM_/Esercizio_4/2_orologio_digitale/index.html)
