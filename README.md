@@ -5,7 +5,7 @@
 
 [Acceso spento_3](Esercizio_1A/acceso_spento_3.html)  
 
-[Aperto chiuso_2](Esercizio_1A/aperto_chiuso_2.html)  
+[Aperto chiuso_2](Esercizio_1A/aperto_chiuso_2.html)   
 
 [Aperto chiuso_3](Esercizio_1A/aperto_chiuso_3.html)   
 
