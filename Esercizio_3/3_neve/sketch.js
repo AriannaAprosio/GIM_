@@ -2,9 +2,11 @@ let snowflakes = []; // array to hold snowflake objects
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  fullscreen(); // canvas a schermo intero
   fill(51, 102, 153);
   noStroke();
 }
+
 
 function draw() {
   background(128, 128, 128);
